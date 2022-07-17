@@ -1,0 +1,32 @@
+{
+  "name": "arc4g-plates",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-spring/three": "9.0.0-rc.3",
+    "@react-three/drei": "2.2.16",
+    "postprocessing": "6.19.3",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-scripts": "3.4.1",
+    "react-three-fiber": "5.3.13",
+    "three": "0.124.0",
+    "tweakpane": "1.5.7",
+    "use-tweaks": "0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
